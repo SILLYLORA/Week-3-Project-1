@@ -3,3 +3,5 @@
 *.pptx filter=lfs diff=lfs merge=lfs -text
 data/*/*.csv filter=lfs diff=lfs merge=lfs -text
 slides/*pptx filter=lfs diff=lfs merge=lfs -text
+data/*csv filter=lfs diff=lfs merge=lfs -text
+data/*xlsx filter=lfs diff=lfs merge=lfs -text
